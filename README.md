@@ -29,4 +29,4 @@
 * https://github.com/BenjaminPisaris
 
 ## Try Our Job Finder
-https://minneolamike.github.io/Group-Project-1/
+https://benjaminpisaris.github.io/Job-Hunter/index.html
